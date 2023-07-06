@@ -21,11 +21,13 @@ Here, I summarize the projects I have undertaken and the diverse sources I have 
 |---|---|---|
 |[Machine Learning Projects on Classification](https://github.com/lethuyngocan/Machine-Learning-Projects-on-Classification-with-Python)|<p>Pandas, <br> Sklearn, <br> Imblearn, <br>Seaborn </p>|I will showcase projects that employ diverse Classification Algorithms in Machine Learning to address various business problems, including: <p> ⚾ Decision Tree Algorithm:Predict the likelihood of individuals developing diabetes; <br> ⚾ Support Vector Classifier: Classifying species of Iris flowers; <br> ⚾ Logistic Regression and SMOTE Model: Detecting credit fraud;  <br> ⚾  Navie Bayes Classifier: Classifying comments of viewers from the IMDB website as Negative or Positive comments. </p>
 |[Forecast Store's Sales: Times Series Model](https://github.com/lethuyngocan/Time-Series-Forcast-Superstore-Sales/blob/master/README.md) |Pandas,<p> Numpy,<br> Statsmodels,<br> Pylab,<pr> Smdarima</p> |Using ARIMA and SARIMA time series models, I forecasted the future sales of a superstore by leveraging historical data spanning four years, from 2015 to 2018.|
-|[Identify Customer Segmentation for E-commerce Business: Time Series Analysis]()||||
 |[Technology Similarity Analysis: Japanese Pharma Firms Case Study](https://github.com/lethuyngocan/Technology-Similarity-Analysis-Japanese-Pharma-Firms)|Numpy,<p> Pandas,<br> Scipy.spatial, <br> IPython.display</p>|This project utilizes the patent information (subclass IPC) to understand the similarity in the technology of different pharmaceutical companies|
 ## 4) Natural Language Processing Projects:
 ## 5) Tableau Projects:
 ## 6) Excel Projects:
+| Project| Tools| Project Description| 
+|---|---|---|
+|[Call Center Analysis](https://github.com/lethuyngocan/Advanced-Excel-Projects)|Excel: <p> If condition, <br> Condition Formating Function, <br>Descriptive Statistic <br> Pie Chart, <br> Bar Chart, <br> Line Chart</p> |Conduct a thorough data exploration to identify underperforming employees in a call center, investigate the underlying reasons behind their performance, and propose targeted solutions to enhance productivity for each team. |
 ## 8) ChatGPT:
                                                                                                                     
                                                                                                                     
