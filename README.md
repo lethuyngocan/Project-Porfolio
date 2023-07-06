@@ -24,6 +24,10 @@ Here, I summarize the projects I have undertaken and the diverse sources I have 
 |[Technology Similarity Analysis: Japanese Pharma Firms Case Study](https://github.com/lethuyngocan/Technology-Similarity-Analysis-Japanese-Pharma-Firms)|Numpy,<p> Pandas,<br> Scipy.spatial, <br> IPython.display</p>|This project utilizes the patent information (subclass IPC) to understand the similarity in the technology of different pharmaceutical companies|
 ## 4) Natural Language Processing Projects:
 ## 5) Tableau Projects:
+| Project|  Project Description| 
+|---|---|
+|||
+
 ## 6) Excel Projects:
 | Project| Tools| Project Description| 
 |---|---|---|
