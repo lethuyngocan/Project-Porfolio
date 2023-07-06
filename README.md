@@ -29,7 +29,7 @@ Here, I summarize the projects I have undertaken and the diverse sources I have 
 ## 5) Tableau Projects:
 | Project|  Project Description| 
 |---|---|
-|[Automobile Industry Overview](https://public.tableau.com/app/profile/le.thuy.ngoc.an/viz/EDAAutomobileData/EDACARDATA)||
+|[Automobile Industry Overview](https://public.tableau.com/app/profile/le.thuy.ngoc.an/viz/EDAAutomobileData/EDACARDATA)|Comparison of car prices among automotive producers.|
 |[The Starup Quadrant](https://public.tableau.com/app/profile/le.thuy.ngoc.an/viz/TheStartupQuadrant_16697043413970/TheStartupQuadrant)|Interactive Dashboard of 1000 potentially startups in term of Growth pontential, Revenue and Expense. |
 |[Twitter Dashboard](https://public.tableau.com/app/profile/le.thuy.ngoc.an/viz/TwitterDashboard_16437659400190/Dashboard1)|Design an interactive KPI dashboard for social media including information such aswhat are they tweeting, when are they tweeting and how much media engagement and interaction from users tweets are getting.|
 
