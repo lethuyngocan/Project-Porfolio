@@ -26,7 +26,9 @@ Here, I summarize the projects I have undertaken and the diverse sources I have 
 ## 5) Tableau Projects:
 | Project|  Project Description| 
 |---|---|
-|||
+|[The Starup Quadrant](https://public.tableau.com/app/profile/le.thuy.ngoc.an/viz/TheStartupQuadrant_16697043413970/TheStartupQuadrant)||
+|[Automobile Industry Overview](https://public.tableau.com/app/profile/le.thuy.ngoc.an/viz/EDAAutomobileData/EDACARDATA)||
+|[Twitter Dashboard](https://public.tableau.com/app/profile/le.thuy.ngoc.an/viz/TwitterDashboard_16437659400190/Dashboard1)||
 
 ## 6) Excel Projects:
 | Project| Tools| Project Description| 
