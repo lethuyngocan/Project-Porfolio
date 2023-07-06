@@ -16,7 +16,16 @@ Here, I summarize the projects I have undertaken and the diverse sources I have 
 |[Web Scrapping: Online BookStore Data](https://github.com/lethuyngocan/Web-Scrapping-Online-Book-Store/blob/master/web-scrapping-on-multiple-pages-booktoscrape-com.ipynb)|Web Scrapping|<p>Beautiful Soup,<br> Request</p>| By leveraging web scraping techniques, I was able to automate the process of extracting book details from http link, facilitating further analysis and exploration of the mystery book collection.|
 |[Data Wrangling & EDA projects](https://github.com/lethuyngocan/EDA-Projects)|Gaining insights, understanding patterns, and discovering key characteristics within the data.|<p>Pandas,<br> Matplotlib, <br>Seaborn, <br>Plotly,<br>Dataprep,<br>Autoviz,<br>Profiling</p>|I showcase 3 distinct projects that apply EDA techniques to serve diverse business objectives: <p>📙Turnover trends and reasons of employee's turnover in different departments; <br>📙 Identify the highest revenue and profit products categorized by product categories and customer segments in a Retail supermarket;<br>📙 Analyzing of the financial performance exhibited by 500 S&P companies.</p>|
                                                                                                                     
-                                                                                                                    
+## 3) Machine Learning Projects:
+| Project| Purpose | Library| Project Description| 
+|---|---|---|---|
+|||||
+|[Forecast Store's Revenue]() |TimeSeries |||
+|[Identify Customer Segmentation for E-commerce Business]()||||
+## 4) Natural Language Processing Projects:
+## 5) Tableau Projects:
+## 6) Excel Projects:
+## 8) ChatGPT:
                                                                                                                     
                                                                                                                     
                                                                                                                    
