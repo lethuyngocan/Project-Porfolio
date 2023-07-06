@@ -17,11 +17,12 @@ Here, I summarize the projects I have undertaken and the diverse sources I have 
 |[Data Wrangling & EDA projects](https://github.com/lethuyngocan/EDA-Projects)|Gaining insights, understanding patterns, and discovering key characteristics within the data.|<p>Pandas,<br> Matplotlib, <br>Seaborn, <br>Plotly,<br>Dataprep,<br>Autoviz,<br>Profiling</p>|I showcase 3 distinct projects that apply EDA techniques to serve diverse business objectives: <p>📙Turnover trends and reasons of employee's turnover in different departments; <br>📙 Identify the highest revenue and profit products categorized by product categories and customer segments in a Retail supermarket;<br>📙 Analyzing of the financial performance exhibited by 500 S&P companies.</p>|
                                                                                                                     
 ## 3) Machine Learning Projects:
-| Project| Purpose | Library| Project Description| 
-|---|---|---|---|
-|||||
-|[Forecast Store's Revenue]() |TimeSeries |||
-|[Identify Customer Segmentation for E-commerce Business]()||||
+| Project| Library| Project Description| 
+|---|---|---|
+|[Machine Learning Projects on Classification](https://github.com/lethuyngocan/Machine-Learning-Projects-on-Classification-with-Python)|<p>Pandas, <br> Sklearn, <br> Imblearn, <br>Seaborn </p>|I will showcase projects that employ diverse Classification Algorithms in Machine Learning to address various business problems, including: <p> ⚾ Decision Tree Algorithm:Predict the likelihood of individuals developing diabetes; <br> ⚾ Support Vector Classifier: Classifying species of Iris flowers; <br> ⚾ Logistic Regression and SMOTE Model: Detecting credit fraud;  <br> ⚾  Navie Bayes Classifier: Classifying comments of viewers from the IMDB website as Negative or Positive comments. </p>
+|[Forecast Store's Sales: Times Series Model](https://github.com/lethuyngocan/Time-Series-Forcast-Superstore-Sales/blob/master/README.md) |Pandas,<p> Numpy,<br> Statsmodels,<br> Pylab,<pr> Smdarima</p> |Using ARIMA and SARIMA time series models, I forecasted the future sales of a superstore by leveraging historical data spanning four years, from 2015 to 2018.|
+|[Identify Customer Segmentation for E-commerce Business: Time Series Analysis]()||||
+|[Technology Similarity Analysis: Japanese Pharma Firms Case Study](https://github.com/lethuyngocan/Technology-Similarity-Analysis-Japanese-Pharma-Firms)|Numpy,<p> Pandas,<br> Scipy.spatial, <br> IPython.display</p>|This project utilizes the patent information (subclass IPC) to understand the similarity in the technology of different pharmaceutical companies|
 ## 4) Natural Language Processing Projects:
 ## 5) Tableau Projects:
 ## 6) Excel Projects:
