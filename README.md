@@ -25,7 +25,8 @@ Here, I summarize the projects I have undertaken and the diverse sources I have 
 ## 4) Natural Language Processing Projects:
 | Project| Library| Project Description| 
 |---|---|---|
-||||
+|[Japanese Language NLP project](https://github.com/lethuyngocan/Japanese-Text-Similarity)|<p>sklearn,<br>gensim,<br>glob,<br>yellowbrick,<br>string,<br>MeCab,<br>pyLDAvis</p>|I scrapped over 7000 Japanese-language reviews from an online platform and transformed them into a Pandas DataFrame. I performed preprocessing and tokenization of the Japanese text using specialized libraries, visualized word embeddings, and conducted topic modeling to classify articles/reviews into categories. Additionally, I selected an arbitrary article and explored articles with similar content. Finally, I extracted feature phrases for each news category.|
+|[Predict Stock Market Price Using Sentiment Analysis ](https://github.com/lethuyngocan/UNSUPERVISED-LEARNING-PYTHON/blob/master/sentiment-analysis-a-comprehensive-guide.ipynb)|<p>TextBlob, <br>re,<br>vaderSentiment,<br>sklearn,<br>pandas</p>|This project aims to predict the direction (increase or decrease) of a company's stock price by analyzing top news headlines.|
 ## 5) Tableau Projects:
 | Project|  Project Description| 
 |---|---|
