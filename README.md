@@ -37,8 +37,8 @@ Here, I summarize the projects I have undertaken and the diverse sources I have 
 | Project| Tools| Project Description| 
 |---|---|---|
 |[Call Center Analysis](https://github.com/lethuyngocan/Advanced-Excel-Projects)|Excel: <p> If condition, <br> Condition Formating Function, <br>Descriptive Statistic <br> Pie Chart, <br> Bar Chart, <br> Line Chart</p> |Conduct a thorough data exploration to identify underperforming employees in a call center, investigate the underlying reasons behind their performance, and propose targeted solutions to enhance productivity for each team. |
-## 8) ChatGPT:
-Will Update Soon!
+## 7) ChatGPT:
+[Chat GPT engineer instruction](https://github.com/lethuyngocan/ChatGPT-Prompt-Engineering-Instructions)
                                                                                                                     
                                                                                                                     
                                                                                                                    
